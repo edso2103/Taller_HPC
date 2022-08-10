@@ -34,7 +34,6 @@ Este algoritmo consiste en inicializar dos variables con el valor de uno, luego 
 ## 2.3 Tercer ejercicio
 En este ejercicio, debido a que la variable x se encuentra definida como entero, entonces tomará la variable a como el número 97 (que corresponde al valor en ascii) y empezará a contar de 10 en 10, obteniendo como resultado, 97,107,117
 
-<br> 
 
 ## 2.4 Cuarto ejercicio
 Este algoritmo consiste en inicializar dos variables con el valor de cero, para luego, crear un bucle que permita que la variable x empiece en 6 y vaya disminuyendo de dos en dos, hasta llegar a 2, y dentro de este se encuentra otro for que aumenta la variable y hasta llegar a 1, para luego realizar la respectiva resta.<br>
