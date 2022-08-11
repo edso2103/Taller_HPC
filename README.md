@@ -108,7 +108,10 @@ Por otra parte, se agrega “MATH FLAGS” para poder hacer uso de las funciones
 Para realizar la compilación y ejecución del proyecto simplemente deberá hacer uso del archivo "Makefile", por medio del comando **make taller_main**, luego de esto, usted podrá hacer uso del ejecutable **taller_main**, por medio del comando **./taller_main**.<br><br>
 En caso tal que desee eliminar los archivos generados, para nuevamente realizar la compilación, deberá usar el comando **make clean**.<br>
 
+Para mayor entendimiento del proceso a realizar, revisar la figura 1.
+<p align="center"> <img src="https://github.com/edso2103/Taller_HPC/blob/main/figura1.png" width="800"/> </p> 
 
+<p align="center"><i><b>Figura 1</i></b></p>
 
 
 
