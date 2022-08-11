@@ -109,7 +109,7 @@ Para realizar la compilación y ejecución del proyecto simplemente deberá hace
 En caso tal que desee eliminar los archivos generados, para nuevamente realizar la compilación, deberá usar el comando **make clean**.<br>
 
 Para mayor entendimiento del proceso a realizar, revisar la figura 1.
-<p align="center"> <img src="https://github.com/edso2103/Taller_HPC/blob/main/figura1.png" width="800"/> </p> 
+<p align="center"> <img src="https://github.com/edso2103/Taller_HPC/blob/main/Figura1.png" width="800"/> </p> 
 
 <p align="center"><i><b>Figura 1</i></b></p>
 
